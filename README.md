@@ -28,3 +28,8 @@ You can also replace the hero and business-card placeholders with company photog
 ## Content basis
 
 The copy and business structure are based on the supplied Esperer Global Corporate Profile (2024), including the business scopes, values, facilities, future plans, clients, five-year targets and contact details. Sensitive identification documents shown in the profile are intentionally not exposed on the public website.
+
+## New homepage messaging
+- Headline: “We are Esperer Global, Building Farm to Fork procurement automation.”
+- AI description focused on processing data from farmers, transporters and large-scale buyers.
+- Impact numbers: 1,087 farmers connected; 6,731 tons of agro commodity delivered.
